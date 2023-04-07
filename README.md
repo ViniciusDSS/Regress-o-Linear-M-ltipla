@@ -1,2 +1,2 @@
-# Regress-o-Linear-M-ltipla
+# Regressao-Linear-Multipla
 Atividade Regressão Linear Múltipla, FACENS
